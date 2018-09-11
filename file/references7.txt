@@ -1,0 +1,21 @@
+1. Hausdorff F. Dimension und ?au?ere Ma?. Mathematische Annalen, 79, 1919, 157–
+179
+2. Boichenko V.A.. Leonov G.A., Reitmann V. Dimension Theory for Ordinary
+Differential Equations. Teubner, Wiesbaden, 2005. 440
+3. Gantmacher F.R. The Theory of Matrices. Chelsea Publishing Company. New
+York, 1959
+4. Boichenko V.A., Leonov G.A. Lyapunov Function, Lozinskii Norms and the Hausdorff
+Measure in the Qualitative Theory of Differential Equations. American Mathematical
+Society Translations. Vol. 193, N 2, 1999. 1–26
+5. Leonov G.A. Strange Attractors and Classical Stability Theory. St. Petersburg
+University Press. St. Petersburg. 2008. 160
+6. Leonov G.A. On Estimations of the Hausdorff Dimension of Attractors. Vestnik
+St. Petersburg University, Mathematics 24, N 3, 1991, 41–41
+7. Leonov G.A. Lyapunov Dimension Formulas for Henon and Lorenz Attractors. St.
+Petersburg Mathematical Journal. 13, N 3, 2002, 453–464
+8. Leonov G.A. Lyapunov Dimension Formulas for Lorenz-like systems. International
+Journal of Bifurcation and Chaos. 2016
+9. Lorenz E.N. Deterministic Nonperiodic Flow Journal of Atmospheric Science. 20,
+1963, 130–141
+10. Constantin P., Foias C., Temam R. Attractors representing turbulent flows, Mem.
+Am. Math. Soc. 53(314) (1985).

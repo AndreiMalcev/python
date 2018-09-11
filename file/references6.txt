@@ -1,0 +1,17 @@
+l. A.Kh. Gelig, The averaging method in the stability theory of sampled-data systems.
+Autom. Telemekh 5 (1883), 55-64. (English translation in Autom.
+Remote Control (1983)).
+2. A.Kh. Gelig, Frequency criterion for nonlinear pulse systems stability. Systems Control
+Lett.1, 6 (1982), 409-412.
+3. A.N. Churilov, Frequency-domain criterion for stability of nonlinear sampled-data
+systems with even pulsation law. (In Russian) Autom. Telemekh. 4 (1992) 93-101.
+4. A.Kh. Gelig, A.N. Churilov, Oscillations and Stability of Nonlinear Sampled-Data
+Systems. (In Russian) To appear.
+5. V.M. Popov, A problem in the theory of absolute stability of control systems. (In
+Russian) Autom. Telemekh. 25, 9 (1964), 1257- 1262. (English translation in Autom.
+Remote Control 25, 9 (1964) 1129- 1134).
+6. G.H. Hardy, J.E. Littlewood, G. P6lya, Inequalities. Cambridge University Press,
+London, 1951.
+7. A.Kh. Gelig, G.A. Leonov, V.A. Yakubovich, Stability of Nonlinear Systems with a
+Nonunique Equilibrium State. (In Russian) Nauka, Moscow, 1978. 
+
